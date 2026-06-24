@@ -1,62 +1,72 @@
-<h1 align="center">Hi 👋, I'm Shanmathi</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | MERN Stack Developer | UI Enthusiast
-</h3>
+# 👋 Hi, I'm Shanmathi
 
----
+### 🚀 Full Stack Developer | MERN Stack Developer | React • Node.js • MongoDB
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL;Always+Learning+New+Technologies" />
 
-- 💻 Passionate Full Stack Developer
-- 🌱 Currently learning Microservices & Cloud Deployment
-- 🔥 Building MERN Stack Applications
-- 🎯 Interested in Scalable Web Applications
-- 📫 Reach me: yourmail@gmail.com
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 💫 About Me
 
-### Frontend
+💻 Passionate Full Stack Developer
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-- Tailwind CSS
+🌱 Currently learning **Microservices, PostgreSQL & Cloud Deployment**
 
-### Backend
+🚀 Love building scalable web applications
 
-- Node.js
-- Express.js
+🎯 Looking for Full Stack Developer opportunities
 
-### Database
-
-- MongoDB
-- PostgreSQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
-- Render
+📍 India
 
 ---
 
-## 🚀 Projects
+# 🌐 Connect With Me
 
-### Student Placement Portal
+<p align="left">
+
+<a href="https://github.com/Shanmathi0605">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://yourportfolio.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,bootstrap,tailwind,git,github,vercel,vscode,postman&perline=5"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎯 Student Placement Portal
 
 ✔ Student Login
 
 ✔ Admin Dashboard
 
-✔ Company Management
+✔ Company Dashboard
 
 ✔ Resume Upload
 
@@ -64,7 +74,7 @@ Full Stack Developer | MERN Stack Developer | UI Enthusiast
 
 ---
 
-### MERN E-Commerce Website
+## 🛒 MERN E-Commerce
 
 ✔ Authentication
 
@@ -78,30 +88,76 @@ Full Stack Developer | MERN Stack Developer | UI Enthusiast
 
 ---
 
-### Portfolio Website
+## 🌐 Personal Portfolio
 
-Responsive personal portfolio built using React.
+✔ Responsive Design
 
----
+✔ React.js
 
-## 📊 GitHub Stats
+✔ Module CSS
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shanmathi-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmathi-dev&layout=compact&theme=tokyonight)
+✔ Modern UI
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shanmathi-dev&theme=tokyonight)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanmathi0605&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmathi0605&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🌐 Connect with me
+# 🔥 GitHub Streak
 
-www.linkedin.com/in/shanmathi2001
+<p align="center">
 
-Portfolio
+<img src="https://streak-stats.demolab.com?user=Shanmathi0605&theme=tokyonight"/>
 
-smily.shanvi6597@gmail.com
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmathi0605&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shanmathi0605&theme=tokyonight&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shanmathi0605&label=Profile+Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+### *"First, solve the problem. Then, write the code."* 💙
+
+⭐ If you like my work, don't forget to star my repositories!
+
+</div>
