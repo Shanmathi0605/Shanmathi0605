@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Shanmathi&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
 <div align="center">
 
 # 👋 Hi, I'm Shanmathi!
@@ -61,6 +63,11 @@
 </p>
 
 ---
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmathi0605&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ## 🔥 GitHub Streak
 
@@ -92,3 +99,4 @@
 <img src="https://komarev.com/ghpvc/?username=Shanmathi0605&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
