@@ -1,95 +1,150 @@
-<h1 align="center">Hi 👋, I'm Shanmathi</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shanmathi&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55"/>
 
-<h3 align="center">
-🚀 Full Stack Developer | MERN Stack Enthusiast | UI/UX Learner
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-</p>
+# 👋 Hi, I'm Shanmathi
 
----
+### 🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
-## 🌟 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
-💻 Passionate Full Stack Developer
+<img src="https://komarev.com/ghpvc/?username=Shanmathi0605&label=Profile%20Views&color=0e75b6&style=flat" />
 
-🌱 Currently Learning Advanced MERN Stack
-
-🎯 Goal: Build Scalable & User-Friendly Applications
-
-⚡ Love Creating Responsive and Interactive Websites
-
-📫 Reach Me: smily.shanvi6597@gmail.com
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 🌟 About Me
+
+```yaml
+Name: Shanmathi
+Role: Full Stack Developer
+Education: B.Sc Computer Science
+Location: Tamil Nadu, India
+Skills: MERN Stack, PostgreSQL, Git, UI/UX
+Goal: Building Scalable Applications
+```
+
+💻 Passionate about Web Development
+
+🚀 Creating Responsive & Interactive Websites
+
+🌱 Learning Advanced Backend Development
+
+🎯 Focused on Real-World Projects
+
+⚡ Turning Ideas into Digital Solutions
+
+---
+
+# 🛠️ Tech Arsenal
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmathi0605&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanmathi0605&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmathi0605&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmathi0605&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🚀 Featured Projects
 
-![Snake animation](https://github.com/Shanmathi0605/Shanmathi0605/blob/output/github-contribution-grid-snake.svg)
+### 🌐 Placement Portal
+Student placement management system using MERN Stack.
+
+### 🛒 E-Commerce Website
+Modern shopping platform with admin dashboard.
+
+### 🎨 Portfolio Website
+Personal portfolio showcasing projects and skills.
+
+### 📚 Learning Management System
+Course and student management platform.
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake
 
-<p align="left">
-<a href="www.linkedin.com/in/shanmathi2001">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<p align="center">
+
+<img src="https://github.com/Shanmathi0605/Shanmathi0605/blob/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:smily.shanvi6597@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+<a href="https://github.com/Shanmathi0605">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 "Code • Create • Innovate"
+## 💡 Code • Create • Innovate
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for Visiting My Profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=120&section=footer"/>
 
 </div>
