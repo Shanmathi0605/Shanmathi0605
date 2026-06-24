@@ -1,143 +1,95 @@
+<h1 align="center">Hi 👋, I'm Shanmathi</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack Enthusiast | UI/UX Learner
+</h3>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shanmathi&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Shanmathi&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-
-<div align="center">
-
-# 👋 Hi, I'm Shanmathi!
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%7C+Python+Learner;Frontend+Developer;Always+Learning+New+Things+%F0%9F%9A%80" />
-
-</div>
 
 ---
-## About Me
 
-- 💻 Full Stack Developer
-- 🚀 MERN Stack Developer
-- 🌱 Learning Microservices & PostgreSQL
-- 📚 Building Real World Projects
-- 🎯 Interested in Scalable Web Applications
-- 📍 Tamil Nadu, India
-## 🌐 Connect With Me
+## 🌟 About Me
 
-<p align="center">
+💻 Passionate Full Stack Developer
 
-<a href="mailto:smily.shanvi6597@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+🌱 Currently Learning Advanced MERN Stack
 
-<a href="https://www.linkedin.com/in/shanmathi2001">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+🎯 Goal: Build Scalable & User-Friendly Applications
 
-<a href="https://github.com/Shanmathi0605">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+⚡ Love Creating Responsive and Interactive Websites
 
-</p>
-## Featured Projects
+📫 Reach Me: smily.shanvi6597@gmail.com
 
-### 🎯 Student Placement Portal
-- MERN Stack
-- Admin Dashboard
-- Resume Upload
-- Placement Tracking
+---
 
-### 🛒 E-Commerce Website
-- React.js
-- Node.js
-- MongoDB
-- Authentication & Cart
+## 🛠 Tech Stack
 
-### 🌐 Portfolio Website
-- React
-- Responsive Design
-- Modern UI
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
-## 🛠️ Tech Stack
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanmathi0605&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmathi0605&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmathi0605&theme=tokyo-night&hide_border=true"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shanmathi0605&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Most Used Languages
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shanmathi0605&theme=tokyonight&row=1&column=6"/>
+---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Shanmathi0605/Shanmathi0605/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="www.linkedin.com/in/shanmathi2001">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:smily.shanvi6597@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+### 💡 "Code • Create • Innovate"
+
+⭐ Thanks for visiting my profile ⭐
 
 </div>
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shanmathi0605&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
-
-## 🚀 Featured Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,docker,git,github,vercel,vscode&perline=5" />
-</p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shanmathi0605/Shanmathi0605/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
