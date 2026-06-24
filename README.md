@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shanmathi&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60"/>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Shanmathi&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
@@ -9,7 +13,14 @@
 </div>
 
 ---
+## About Me
 
+- 💻 Full Stack Developer
+- 🚀 MERN Stack Developer
+- 🌱 Learning Microservices & PostgreSQL
+- 📚 Building Real World Projects
+- 🎯 Interested in Scalable Web Applications
+- 📍 Tamil Nadu, India
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -27,6 +38,25 @@
 </a>
 
 </p>
+## Featured Projects
+
+### 🎯 Student Placement Portal
+- MERN Stack
+- Admin Dashboard
+- Resume Upload
+- Placement Tracking
+
+### 🛒 E-Commerce Website
+- React.js
+- Node.js
+- MongoDB
+- Authentication & Cart
+
+### 🌐 Portfolio Website
+- React
+- Responsive Design
+- Modern UI
+
 
 ## 🛠️ Tech Stack
 
@@ -100,6 +130,12 @@
 
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+## 🚀 Featured Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,docker,git,github,vercel,vscode&perline=5" />
+</p>
 ## 🐍 Contribution Snake
 
 <p align="center">
