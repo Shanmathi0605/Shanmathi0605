@@ -100,3 +100,8 @@
 
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shanmathi0605/Shanmathi0605/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
