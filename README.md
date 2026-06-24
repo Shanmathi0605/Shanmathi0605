@@ -123,11 +123,11 @@ Course and student management platform.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/www.linkedin.com/in/shanmathi2001">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:smily.shanvi6597@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
